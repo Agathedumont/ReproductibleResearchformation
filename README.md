@@ -18,7 +18,7 @@
 
 ## Overview
 
-This research compendium… **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium features functions and code to download Pantheria and Wildfinder datasets from a github repo.
 
 ## Features
 
