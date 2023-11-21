@@ -22,8 +22,7 @@ This research compendium features functions and code to download Pantheria and W
 
 ## Features
 
-The main purpose of this compendium is to… **{{ DESCRIBE THE MAIN
-FEATURES }}**
+The main purpose of this compendium is to organize my work to be the more reproductible as possible.
 
 ## Content
 
