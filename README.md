@@ -22,7 +22,7 @@ This research compendium features functions and code to download Pantheria and W
 
 ## Features
 
-The main purpose of this compendium is to organize my work to be the more reproducible as possible.
+The main purpose of this compendium is to teach us about reproducibility.
 
 ## Content
 
